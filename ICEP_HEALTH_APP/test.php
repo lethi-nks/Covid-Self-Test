@@ -12,7 +12,7 @@
     
    else if($answer == "no")
     {
-      header("Location:home_patient.php");
+      header("Location:test_reslut.php");
        
     }
     }
